@@ -55,6 +55,13 @@ header {
 
 #Office {
   color: white;
+	text-decoration: none;
+	font-size: 2rem;
+	font-weight: 600;
+}
+
+#Office:hover{
+	text-decoration: underline;
 }
 
 #btn-mobile {
